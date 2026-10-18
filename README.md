@@ -1,6 +1,6 @@
 
 
-Think of a pomelo.
+Have this.
 
 <p align="center"><img src="pomelo.png" alt="a pomelo" width="280"></p>
 
